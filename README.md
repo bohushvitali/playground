@@ -1,8 +1,10 @@
-# Exploration Playgrounds
+# Exploration Playground
 
 ## Concepts
 - Evolutionary Architectures
   - An evolutionary architecture supports incremental, guided change as a first principle across multiple dimensions.
+- Distributed Systems
+  - A distributed system is a system whose components are located on different networked computers, which communicate and coordinate their actions by passing messages to one another.
 - Autonomous Clusters
   - Package Kubernetes clusters as images and run them anywhere.
 - Gherkin Language
