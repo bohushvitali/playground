@@ -1,6 +1,6 @@
 # Exploration Playgrounds
 
-# Concepts
+## Concepts
 - Evolutionary Architectures
   - An evolutionary architecture supports incremental, guided change as a first principle across multiple dimensions.
 - Autonomous Clusters
@@ -18,7 +18,7 @@
 - Web Components
   - Web components are a set of web platform APIs that allow you to create new custom, reusable, encapsulated HTML tags to use in web pages and web apps.
 
-# Components
+## Components
 - Ubuntu Linux
 - Microk8s
 - Skaffold
@@ -58,7 +58,7 @@
 - React
 - XState
 
-# Dashboards
+## Dashboards
 - Kubernetes Dashboard
 - Envoy Dashboard
 - Grafana Dashboard
@@ -67,7 +67,7 @@
 - Vistio Dashboard
 - Kiali Dashboard
 
-# Applications
+## Applications
 - Bookinfo Application
 - Solid Platform Application
 - Schema.org Visualization Application
